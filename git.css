@@ -1,6 +1,6 @@
 *{
-    margin: 0;
     padding: 0;
+    margin: 0;
     box-sizing: border-box;
 }
 
@@ -8,11 +8,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: blueviolet;
     height: 100vh;
-}
-
-a{
-    text-decoration: none;
-    color: inherit;
+    background-color: black;
+    color: white;
+    font-size: 32px;
 }
